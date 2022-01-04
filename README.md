@@ -10,7 +10,7 @@ If a slide has existing attributions, please respect that and include it in your
 
 Title | Conference | Links
 --- | --- | ---
-OWASP CycloneDX Overview | [CISA SBOM-a-rama](https://www.cisa.gov/cisa-sbom-rama) | [slides](CISA%20SBOM-a-rama%20-%20OWASP%20CycloneDX%20Overview.pdf) - [video](https://youtu.be/aKEpHMVusjM?t=6132)
+OWASP CycloneDX Overview | [CISA SBOM-a-rama](https://www.cisa.gov/cisa-sbom-rama) | [slides](CISA%20SBOM-a-rama%20-%20OWASP%20CycloneDX%20Overview.pdf) - [video](https://youtu.be/aKEpHMVusjM?t=6132) - [end of day Q&A session](https://youtu.be/aKEpHMVusjM?t=9563)
 WTF is in your software? (co-presented with [Steve Springett](https://github.com/stevespringett)) | [All Day DevOps 2021](https://www.alldaydevops.com/) | [slides](All%20Day%20DevOps%202021%20-%20WTF%20is%20in%20your%20software.pdf) - [video](https://play.vidyard.com/nW76zidmn61HaN95uxAaTN?)
 How a Software Bill of Materials is a key factor when securing the supply chain | [Swiss Cyber Storm 2021](https://www.swisscyberstorm.com/) | [slides](Swiss%20Cyber%20Storm%202021%20How%20a%20Software%20Bill%20of%20Materials%20is%20a%20key%20factor%20when%20securing%20the%20supply%20chain.pdf) - [video](https://www.youtube.com/watch?v=zQmtdV-4ZiQ&list=PLpSWQuopCAzJ2OKWf1qbeDQkYJClZj7XQ&index=8)
 CycloneDX Software Bill of Materials Standard (co-presented with [Steve Springett](https://github.com/stevespringett)) | [OWASP 20th Anniversary Event 2021](https://owasp.org/) | [slides](OWASP%2020th%20Anniversary%20-%20CycloneDX%20Software%20Bill%20of%20Materials%20Standard.pdf) - [video](https://youtu.be/BFLHqO-2Kpo?t=6608)
