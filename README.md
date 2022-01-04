@@ -8,7 +8,7 @@ And if you do use my material ping me on Twitter [@coderpatros](https://twitter.
 
 If a slide has existing attributions, please respect that and include it in yours.
 
-Title | Conference | Links
+Title | Event | Links
 --- | --- | ---
 OWASP CycloneDX Overview | [CISA SBOM-a-rama](https://www.cisa.gov/cisa-sbom-rama) | [slides](CISA%20SBOM-a-rama%20-%20OWASP%20CycloneDX%20Overview.pdf) - [video](https://youtu.be/aKEpHMVusjM?t=6132) - [end of day Q&A session](https://youtu.be/aKEpHMVusjM?t=9563)
 WTF is in your software? (co-presented with [Steve Springett](https://github.com/stevespringett)) | [All Day DevOps 2021](https://www.alldaydevops.com/) | [slides](All%20Day%20DevOps%202021%20-%20WTF%20is%20in%20your%20software.pdf) - [video](https://play.vidyard.com/nW76zidmn61HaN95uxAaTN?)
