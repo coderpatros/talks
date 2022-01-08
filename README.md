@@ -1,10 +1,12 @@
 # Talks
 
-Feel free to use my content when preparing your own talks.
+These are some of the talks I've previously presented.
 
-Attribution is of course appreciated.
+If you would like me to present at your event, participate in a panel discussion, etc, just reach out to me patrick.dwyer@owasp.org
 
-And if you do use my material ping me on Twitter [@coderpatros](https://twitter.com/coderpatros), I'd love to check out your talk.
+If you are giving a talk, and would like to use my content when preparing your own talks you are welcome to.
+
+Attribution is of course appreciated. If you do use my material please let me know. I'd love to check out your talk.
 
 If a slide has existing attributions, please respect that and include it in yours.
 
