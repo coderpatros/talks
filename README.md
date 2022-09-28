@@ -12,6 +12,7 @@ If a slide has existing attributions, please respect that and include it in your
 
 Title | Event | Links
 --- | --- | ---
+Keynote: A crash course on SBOMs and OWASP CycloneDX for software engineering teams | Code.LM 2022 (internal Lockheed Martin conference) | [slides](Code.LM%202022%20A%20crash%20course%20on%20SBOMs%20and%20OWASP%20CycloneDX%20for%20software%20engineering%20teams.pdf)
 CycloneDX and SBOMs | [Application Security Podcast](https://www.securityjourney.com/resources/appsec-podcast) | [podcast episode](https://www.securityjourney.com/podcast-episode/patrick-dwyer-cyclonedx-and-sboms)
 How Do You Know What's In Your Software Supply Chain? (panel discussion) | MongoDB Webinar |
 Utilizing SBOMs to Enhance Software Supply Chain Security (panel discussion) | [Homeland Security Week](https://www.idga.org/events-homelandsecurityweek) |
